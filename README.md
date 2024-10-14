@@ -1,5 +1,5 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : BALAJI R
+Name : BALAJI N
 Roll no : 2305002002
 Date of experiment : 26.10.2024
 
